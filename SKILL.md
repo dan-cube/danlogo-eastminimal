@@ -18,11 +18,12 @@ danlogo 系列的东方极简方向。它规定**气质和质量**，不规定�
 
 ## 先读
 
-开始任何项目之前，按顺序读完风格三章：
+开始任何项目之前，按顺序读完前三章风格章；第四章到第 6 阶段再读：
 
 1. `references/philosophy.md` —— 思想坐标与十条设计思想：为什么这样设计
 2. `references/style-dna.md` —— 九条风格基因、旋钮与试金石：看起来是什么气质
 3. `references/creative-methods.md` —— 七种创意方法与防同质化：每次怎么想出新的
+4. `references/style-extension.md` —— 风格延展：体系、场景、提案长什么样（第 6–8 阶段）
 
 `references/exemplars.md`（参照作品）和 `cases/index.md`（已用过的母题）**等第 2 阶段列完候选母题再读**，用它们划掉惯性答案和撞题的母题——先读会被它们带着走。完整案例只在需要参照“做到什么程度”时读，并且只借方法、不借形式。其余文件在对应阶段读（见下表）。
 
@@ -52,9 +53,9 @@ danlogo 系列的东方极简方向。它规定**气质和质量**，不规定�
 | 3 原型 | 每个锁定概念发散图形；只做形，先用黑白 | **每个概念 ≥3 个原型** + 初步查重 | `style-dna.md`、`craft.md` |
 | 4 图形 | 精修：构造规则、视觉修正、小尺寸版、构造图 | 精修图形 | `craft.md`、`quality-gates.md` |
 | 5 定稿 | 定制字与配色一起做 | 每个图形 2–3 套“字 + 色”组合 + 完整查重 | `craft.md`、`style-dna.md` |
-| 6 体系 | 组合、变色、留白、最小尺寸、错误用法、动态 | SVG / PNG 全套 | `deliverables.md` |
-| 7 场景 | 按行业选 6–10 个场景 | 场景示意 | `deliverables.md` |
-| 8 提案 | 提报文档 + 演讲备注 + 源文件包 + 查重复查 | 提案 | `deliverables.md`、`adapters/` |
+| 6 体系 | 组合、变色、留白、最小尺寸、错误用法、动态 | SVG / PNG 全套 | `deliverables.md`、`style-extension.md` |
+| 7 场景 | 按行业选 6–10 个场景 | 场景示意 | `deliverables.md`、`style-extension.md` |
+| 8 提案 | 提报文档 + 演讲备注 + 源文件包 + 查重复查 | 提案 | `deliverables.md`、`style-extension.md`、`adapters/` |
 | 9 总结 | 主动询问是否用这个项目优化 skill | 修改建议，用户批准后写入 | `workflow.md` 第 9 节 |
 
 ## 贯穿全程
@@ -78,4 +79,4 @@ danlogo 系列的东方极简方向。它规定**气质和质量**，不规定�
 - `adapters/for-claude.md`、`adapters/for-codex.md`：不同 AI 工具在看图、做演示文稿、预览网页上的差异。
 - `evals/briefs.md`：用于检验本 skill 不会把所有品牌做成同一个样子的测试简报。
 
-`references/` 中带 `danlogo-core` 标记的五个文件（workflow、quality-gates、craft、deliverables、feedback-playbook）是 danlogo 系列共用章节，所有风格保持一致；本风格专属的是 philosophy、style-dna、creative-methods 三章。
+`references/` 中带 `danlogo-core` 标记的五个文件（workflow、quality-gates、craft、deliverables、feedback-playbook）是 danlogo 系列共用章节，所有风格保持一致；本风格专属的是 philosophy、style-dna、creative-methods、style-extension 四章：前三章管标志本身，第四章管体系、场景和提案的审美，让整套设计和标志出自同一种气质。

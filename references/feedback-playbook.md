@@ -1,4 +1,4 @@
-<!-- danlogo-core v2.0 · 系列共用章节：所有 danlogo 风格 skill 保持一致，不带任何风格倾向。修改请在 danlogo-maker/standard/core/ 中进行，再同步到各 skill。 -->
+<!-- danlogo-core v2.1 · 系列共用章节：所有 danlogo 风格 skill 保持一致，不带任何风格倾向。修改请在 danlogo-maker/standard/core/ 中进行，再同步到各 skill。 -->
 
 # 反馈对照表：反馈 → 诊断 → 动作
 

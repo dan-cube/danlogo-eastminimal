@@ -157,6 +157,7 @@ references/
   exemplars.md               style 1 appendix · reference works, and how to learn from them without copying
   style-dna.md               style 2 · core relation, nine genes, knobs, touchstones
   creative-methods.md        style 3 · motif questions, seven methods, concept card
+  style-extension.md         style 4 · how the system, scenes and proposal look in this style
   workflow.md                shared · the nine stages in detail
   quality-gates.md           shared · graphic-first, distinctiveness, AI-flavour, similarity checks
   craft.md                   shared · from illustration to mark, construction, lettering, colour
@@ -172,7 +173,7 @@ install.sh                   install · update · package
 
 ## The danlogo series
 
-DanLogo · East Minimal is the first skill in the **danlogo** series. Every danlogo skill shares the same workflow and quality gates (`danlogo-core`) and differs only in three style chapters: its philosophy, its style DNA and its creative methods. The rules for building a new style live in the series standard (`standard/` in danlogo-maker).
+DanLogo · East Minimal is the first skill in the **danlogo** series. Every danlogo skill shares the same workflow and quality gates (`danlogo-core`) and differs only in four style chapters: its philosophy, its style DNA, its creative methods and its style extension (how the system, scenes and proposal look). The rules for building a new style live in the series standard (`standard/` in danlogo-maker).
 
 ## Updating and contributing
 

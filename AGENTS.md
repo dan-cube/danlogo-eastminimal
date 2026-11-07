@@ -3,7 +3,7 @@
 这个仓库本身就是一个 skill（`danlogo-eastminimal`）。如果你是被要求**修改这个 skill** 的 AI（而不是用它做设计），请遵守：
 
 1. **分清两类章节**
-   - 风格三章（本风格专属，可以在这里改）：`references/philosophy.md`、`references/style-dna.md`、`references/creative-methods.md`。
+   - 风格四章（本风格专属，可以在这里改）：`references/philosophy.md`、`references/style-dna.md`、`references/creative-methods.md`、`references/style-extension.md`。
    - 共用五章（带 `danlogo-core` 标记）：`workflow.md`、`quality-gates.md`、`craft.md`、`deliverables.md`、`feedback-playbook.md`。不要在这里单独改；修改先在 danlogo 系列标准（`danlogo-maker/standard/core/`）中完成，再同步过来。
 2. **规则停在原则层**：风格章里不要写具体颜色、形状、标点、工艺或物品的硬规定。具体做法只写进 `cases/` 的案例，并标注“只借方法，不借形式”。
 3. **每条规则写清楚为什么**，并配一个可以执行的自检问题。
