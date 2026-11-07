@@ -35,7 +35,7 @@ An AI can draw a logo in seconds, and most of those logos look generated: generi
 Most of the craft lives in **stage 2** and **stage 3**:
 
 - **Concepts.** The agent lists at least ten candidate motifs taken from facts about the brand: what its people do every day, what everyone sees but nobody notices, the meaning of the name. It turns five of them into concept cards, each with a black-and-white sketch and a self-check, and recommends one.
-- **Prototypes.** Each concept you lock becomes at least three prototypes. A first drawing is usually just an illustration of the motif; six translation moves turn it into a mark that belongs to this brand alone: precise relation, extreme contrast, cropping, reduction to planes, figure–ground reversal, one deliberate deviation.
+- **Prototypes.** Each concept you lock becomes at least three prototypes. A first drawing is usually just an illustration of the motif; the technique library turns it into a mark that belongs to this brand alone; East Minimal leans on precise relation, extreme contrast, cropping, reduction to planes, figure–ground reversal and one deliberate deviation.
 
 Stages 4–9 turn the chosen mark into a finished identity, each with its own method:
 
@@ -172,12 +172,12 @@ install.sh                   install · update · package
 
 ## The danlogo series
 
-DanLogo · East Minimal is the first skill in the **danlogo** series. Every danlogo skill shares the same workflow and quality gates (`danlogo-core`) and differs only in three style chapters: its philosophy, its style DNA and its creative methods. The rules for building a new style live in **danlogo-standard**.
+DanLogo · East Minimal is the first skill in the **danlogo** series. Every danlogo skill shares the same workflow and quality gates (`danlogo-core`) and differs only in three style chapters: its philosophy, its style DNA and its creative methods. The rules for building a new style live in the series standard (`standard/` in danlogo-maker).
 
 ## Updating and contributing
 
 - When a project finishes (stage 9), the agent asks whether to fold it back into the skill as a new case or as rule changes. Nothing is written without your approval.
-- The shared chapters are maintained in `danlogo-standard` and synced to every style.
+- The shared chapters are maintained in the series standard and synced to every style.
 - Issues and ideas are welcome.
 
 ## License
