@@ -1,5 +1,9 @@
 # 更新记录
 
+## 0.6.1 · 2026-11-07
+
+- 修复：`install.sh` 的排除规则只作用于仓库根目录，安装和打包时保留 `scripts/README.md` 与 `examples/eonpoint/README.md`（v0.6.0 的安装包缺少它们）。
+
 ## 0.6.0 · 2026-11-07
 
 - 定位改为“让 AI 工具（Claude、Codex 等）做成套的 logo 体系”，覆盖从简报到交付的全流程。

@@ -16,7 +16,8 @@ CLAUDE_DIR="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
 CODEX_DIR="${CODEX_SKILLS_DIR:-$HOME/.agents/skills}"
 # 这些文件只在仓库里用，不装进 AI 工具
 EXCLUDES=(--exclude ".git" --exclude ".gitignore" --exclude "dist" --exclude "__pycache__" --exclude ".DS_Store"
-          --exclude "install.sh" --exclude "AGENTS.md" --exclude "README.md" --exclude "README.zh-CN.md" --exclude "CHANGELOG.md" --exclude "LICENSE" --exclude "docs")
+          --exclude "/install.sh" --exclude "/AGENTS.md" --exclude "/README.md" --exclude "/README.zh-CN.md" --exclude "/CHANGELOG.md" --exclude "/LICENSE" --exclude "/docs")
+# 以 / 开头的规则只排除仓库根目录下的文件，scripts/README.md 等子目录说明会保留
 
 copy_to() {
   local dest="$1/$NAME"

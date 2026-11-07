@@ -4,7 +4,7 @@
 
 [English](README.md) · **中文**
 
-![version](https://img.shields.io/badge/version-0.6.0-231F1C?style=flat-square)
+![version](https://img.shields.io/badge/version-0.6.1-231F1C?style=flat-square)
 ![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills-6B6560?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-C9413A?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-ready-6B6560?style=flat-square)
