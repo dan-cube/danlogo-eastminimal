@@ -1,5 +1,10 @@
 # 更新记录
 
+## 0.6.2 · 2026-11-07
+
+- 采用 MIT 许可：新增 `LICENSE`，README 写明许可；安装与打包时带上 LICENSE。
+- 写明 EonPoint 亿触点的名称、标志与案例图片归其所有者所有，仅作案例展示，不在 MIT 许可范围内。
+
 ## 0.6.1 · 2026-11-07
 
 - 修复：`install.sh` 的排除规则只作用于仓库根目录，安装和打包时保留 `scripts/README.md` 与 `examples/eonpoint/README.md`（v0.6.0 的安装包缺少它们）。

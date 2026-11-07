@@ -4,11 +4,12 @@
 
 [English](README.md) · **中文**
 
-![version](https://img.shields.io/badge/version-0.6.1-231F1C?style=flat-square)
+![version](https://img.shields.io/badge/version-0.6.2-231F1C?style=flat-square)
 ![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills-6B6560?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-C9413A?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-ready-6B6560?style=flat-square)
 ![dependencies](https://img.shields.io/badge/deps-Python%20stdlib-9A938B?style=flat-square)
+![license](https://img.shields.io/badge/license-MIT-9A938B?style=flat-square)
 
 </div>
 
@@ -181,4 +182,6 @@ install.sh                   安装、更新、打包
 
 ## 许可
 
-公开发布时确定。
+本 skill 的文字和代码采用 [MIT 许可](LICENSE)：可以自由使用、复制、修改和再分发，包括商用，只要保留版权声明和许可全文。
+
+EonPoint 亿触点的名称、标志与案例图片归其所有者所有，仅作案例展示，**不在 MIT 许可范围内**，请勿挪用。

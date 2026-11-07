@@ -4,11 +4,12 @@
 
 **English** · [中文](README.zh-CN.md)
 
-![version](https://img.shields.io/badge/version-0.6.1-231F1C?style=flat-square)
+![version](https://img.shields.io/badge/version-0.6.2-231F1C?style=flat-square)
 ![Agent Skills](https://img.shields.io/badge/format-Agent%20Skills-6B6560?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-ready-C9413A?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-ready-6B6560?style=flat-square)
 ![dependencies](https://img.shields.io/badge/deps-Python%20stdlib-9A938B?style=flat-square)
+![license](https://img.shields.io/badge/license-MIT-9A938B?style=flat-square)
 
 </div>
 
@@ -181,4 +182,6 @@ DanLogo · East Minimal is the first skill in the **danlogo** series. Every danl
 
 ## License
 
-To be announced with the public release.
+The skill's text and code are released under the [MIT License](LICENSE): you may use, copy, modify and redistribute them, including commercially, as long as the copyright notice and licence text travel with them.
+
+The EonPoint 亿触点 name, marks and case images belong to their owner. They are included as a case study only and are **not** covered by the MIT License; please don't reuse them.
